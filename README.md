@@ -9,7 +9,7 @@
 
 ## ③DEMO
   - 
--  https://tech-yusuke.sakura.ne.jp/food_db2/
+-  https://tech-yusuke.sakura.ne.jp/food_db2/index.php
 
 
 ## ④作ったアプリケーション用のIDまたはPasswordがある場合
